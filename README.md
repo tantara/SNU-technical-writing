@@ -18,7 +18,7 @@ $ cd technical-writing/code
 
 ### 목차
 
-[연구논문](https://github.com/tantara/technical-writing/paper.pdf)
+[연구논문](https://github.com/tantara/technical-writing/blob/master/paper.pdf)
 
 1. 연구목적	4
     - 1.1. 문제 인식 및 연구의 필요성	4
